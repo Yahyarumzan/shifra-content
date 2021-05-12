@@ -41,4 +41,4 @@ Given the chapters of the Koran from *Duha* to *Nas*, the Arabic text and audio,
 
 I'm looking for feedback on what approach above would be most suited for the aforementioned goal and/or other ideas/suggestions regarding the whole project.
 
-I would really appreciate if you could go through the content [here](https://github.com/cordobadigitalmedia/shifra-content/tree/main/safwa-al-tafsir) and provide feedback [here](https://airtable.com/shr7wo7T7qEc7c7to).
+I would really appreciate if you could go through the content <a href="https://github.com/cordobadigitalmedia/shifra-content/tree/main/safwa-al-tafsir" target="_blank">here</a> and provide feedback <a href="https://airtable.com/shr7wo7T7qEc7c7to" target="_blank">here</a>
