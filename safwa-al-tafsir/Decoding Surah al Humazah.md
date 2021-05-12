@@ -13,9 +13,9 @@ The chapter closes with the remembrance of the outcome of these miserable and wr
 - `همزة`: The one who slanders people and hurt their honor. It is on the pattern `فُعلة`
 - `لمزة`: The one who find faults with people, who defames using eyebrows and eyes (winking)
 
-A hadith narrates:
+A noble hadith says:
 
-
+> One is a not a believer who has the way of criticising, accusation, excessiveness and loathsomeness.
 
 - `الحطمة`: The fire of Hell. It is named like this because it destroys everything that it encounters by shattering and crushing
 - `مؤصدة`: Completety and absolutely closed.
