@@ -54,6 +54,67 @@ That is, that burdened and weakened your back. The scholars of *tafsir* said:
 48:2 لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِن ذَنبِكَ وَمَا تَأَخَّرَ
 ```
 
-> So that God might show His forgiveness of all thy faults, past as well as future
+> That Allah may forgive thee thy faults of the past and those to follow; fulfil His favour to thee;
+and guide thee on the Straight Way
 
-> It does not point to forgiveness for sins for the messengers are protected from disgusting offenses but for what he, *peace be upon him*, did out of his interpretation and he was blamed for it such as the permission he gave to the hypocrites for not going for *jihad* 	
+> It does not point to forgiveness for sins since the messengers are protected from disgusting offenses but for what he, _peace be upon him_, did out of his interpretation and he was blamed for in situations such as the permission he gave to the hypocrites for staying away from _jihad_ when they exceeded their bounds and took redemption from difficulty at the battle of _Badr_. He was frowned upon for lack of insight. It was said in _Tashil_ that when the sins or wrongdoings of the prophets are described as burden, they refer to the small forgiven actions that distress them and that they are distressed by. They are described as burden because of the strength of their fear of God as mentioned in the following tradition:
+
+> Verily, the believer sees his sins like a mountain about to collapse on him while the hypocrit sees his sins like a fly flying on his nose
+
+Regarding the uttered sound, `أَنقَضَ`, it is what is heard from a loaded beast such as the back of a camel from the heaviness of the weight.
+
+<showVersesFrom94 ayahs={[4]}>
+
+We have raised your affair in the world and the next and we have connected your name with Our Name. `Mujahid` said (that the prophet said):
+
+> I am not remembered except that you are remembered with me.
+
+`Qatada` said:
+
+> God has raised his remembrance in this world and the next. There is no preacher, or listener, or praying person who says or calls "There is not God but God" that he includes with it "Verily Muhammad is God's messenger".
+
+In a narration,
+
+> Jibril came to me and told me: O Muhammad,verily your Lord says: Would you like to know how I raised your remembrance? He replied: God knows best. If I am remembered, you are remembered with Me.
+
+It was said in `Bahr`:
+
+> God connected the remembrance of the messenger with His remembrance, most High, in the statement of belief, the call to prayer, the call to standing for prayer, in the `tashahud`, in the sermon and in several parts of the Koran, obligated the prophets and their people to believe in him (peace be upon him) as was said by _Hasan bin Thabit_:
+
+> His Lord has joined His Name to the name of the prophet (peace be upon him)
+
+</showVersesFrom94>
+
+<showVersesFrom94 ayahs={[5]}>
+
+That is, after oppression comes victory and after hardship comes ease and relief. The scholars said:
+
+> The messenger of God (peace be upon him) and his companions in `Mecca` faced hardship and oppression due to the harm of the disbelievers to the prophet and the believers. God promised him ease just like He enumerated the blessings bestowed upon him at the beginning of this chapter as consolation for him, as a cure for his sadness and strengthen his hope.
+
+God Most High said:
+
+> Verily the one who has bestowed upon you this amazing blessing, He will grant you victory over difficulty and make your actions clear. He will exchange this difficulty with a forthcoming ease. Hence, it is repeated for the sake of eloquence with the next verse.
+
+</showVersesFrom94>
+
+<showVersesFrom94 ayahs={[6]}>
+
+That is, victory will come after hardship and ease after difficulty. Therefore, do not be sad or displeased. In a narration, it is mentioned:
+
+> One does not overcome difficulty except with two acts of ease.
+
+</showVersesFrom94>
+
+<showVersesFrom94 ayahs={[7]}>
+
+That is, O `Muhammad` (peace be upon you), when you have finished calling people to God, exert yourself in the worship of the Creator. When you have finished with the affairs of this world, tire yourself with the pursuit of the next world.
+
+</showVersesFrom94>
+
+<showVersesFrom94 ayahs={[8]}>
+
+That is, care and long for what is with God, not what is in this ephemeral world. Ibn Kathir said:
+
+> The meaning is when you have tired yourself with the affairs of this world, seperate yourself from it, exhaust yourself with worship and stand actively in it with an attentive mind, turning your intention and longing to your Lord.
+
+</showVersesFrom94>
