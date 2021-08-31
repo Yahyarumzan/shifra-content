@@ -79,7 +79,7 @@ Those who are forgetful about their prayers and delay their prayer until the tim
 
 > They do not pray in the required time, nor do they have tranquility in their bowing and prostration. 
 
-Indeed, the messenger of Allah, *peace be upon him* said about this verse:
+Indeed, the messenger of Allah, *ﷺ* said about this verse:
 
 > They are those who delay their prayers. 
 

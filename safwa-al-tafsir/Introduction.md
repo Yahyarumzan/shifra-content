@@ -10,7 +10,7 @@ The content that I am writing in this repository will act as the **fuel** for th
 
 ## Course Goal
 
-Given the chapters of the Koran from *Duha* to *Nas*, the Arabic text and audio, learners will be able to transform their reading and hearing of the verses in question to a deeply meaningful experience that connects them to God most High and His messenger, *peace be upon him*.
+Given the chapters of the Koran from *Duha* to *Nas*, the Arabic text and audio, learners will be able to transform their reading and hearing of the verses in question to a deeply meaningful experience that connects them to God most High and His messenger, *ﷺ*.
 
 ## Approaches
 

@@ -43,7 +43,7 @@ This is the same God that fed them after the strength of famine and has protecte
 29:67 أَوَلَمْ يَرَوْا أَنَّا جَعَلْنَا حَرَمًا آمِنًا وَيُتَخَطَّفُ النَّاسُ مِنْ حَوْلِهِمْ
 ```
 
-This is by the blessing of the call of their great forefather, Ibrahim, peace be upon him when he said:
+This is by the blessing of the call of their great forefather, Ibrahim, ﷺ when he said:
 
 > O Allah, render or make this place safe
 

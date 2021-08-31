@@ -17,7 +17,7 @@ The chapter closes with a clear statement by God with the reward of the believer
 
 <Vocabulary word="طور سينين">
 
-This is the mountain of `Tur` where God most High talked to the prophet `Musa` (peace be upon him). The meaning of `سينين` is blessed.
+This is the mountain of `Tur` where God most High talked to the prophet `Musa` (ﷺ). The meaning of `سينين` is blessed.
 
 </Vocabulary>
 <Vocabulary word="تقويم">
@@ -42,7 +42,7 @@ That is, how you act you will collect or be retributed
 
 ## Explanation
 
-<showVersesFrom95 ayahs={[1]}>
+<ShowVerses sura="95" ayahs={[1]}>
 
 This is an oath, that is God swears by the fig and the olive due to the blessing in them and their beneficial use. Ibn Abas said:
 
@@ -54,9 +54,9 @@ Ikrima said:
 
 This is a clearer or stronger meaning. Verily, this points towards the fact that God most High is turning to the well known places of the mountain of *Tur* and the safe city. Therefore, His swearing is by these honorable places that He has enobled with revelation and messages from the heavens. 
 
-</showVersesFrom95>
+</ShowVerses>
 
-<showVersesFrom95 ayahs={[2]}>
+<ShowVerses sura="95" ayahs={[2]}>
 
 That is, He swears by the blessed mountain where He talked to the prophet *Musa* and this is the *Tur Sinai* where many trees grow and is found blessed excellence.
 
@@ -64,17 +64,13 @@ That is, He swears by the blessed mountain where He talked to the prophet *Musa*
 
 > It was named `Sinain` and `Sinai` by it's excellence and blessedness. All mountains where fruitful trees are found are named `Sinain` and `Sinai`.
 
-</showVersesFrom95>
+</ShowVerses>
 
-<showVersesFrom95 ayahs={[3]}>
+<ShowVerses sura="95" ayahs={[3]}>
 
 He swears by the safe city, namely the blessed `Mecca` where whoever enters it, his person and wealth are safeguarded as God most High says:
 
-<showVersesFrom29 ayahs={[67]}>
-
-Do they not then see that We have made a sanctuary secure, and that men are being snatched away from all around them? Then, do they believe in that which is vain, and reject the Grace of Allah.
-
-</showVersesFrom29>
+<ShowVerses sura="29" ayahs={[67]}/>
 
 *Alusi* said:
 
@@ -90,13 +86,13 @@ The goal with the oath by these things is the exposition about the nobleness of 
 
 *Ibn Kathir* said:
 
-> Some of the *imams* concluded that they are three places. God sent in all of them prophets, transmitting with the highest of determination, companions of the highest laws. The first one is the place of the fig and the olive which is `Jerusalem` where God most High sent prophet `Isa` (peace be upon him). The second is `Tur Sinai` where God most High spoke to prophet `Musa` (peace be upon him), son of `Imran`. The third is the safe city where whoever enters is safeguarded where God most High sent `Muhammad` (peace be upon him). At the end of the `Tawrah`, these three places are mentioned as God came at the mountain of `Sinai`, where He spoke to `Musa` (peace be upon him). Then, to the east, the mountain of `Jerusalem` where God sent the prophet `Isa` (peace be upon him). Thereafter, disclosing the mountain of `Faran` ([Desert of Paran, also spelled `Pharan` or `Faran`](https://en.wikipedia.org/wiki/Desert_of_Paran)), referring to the mountain of `Mecca` where God sent `Muhammad` (peace be upon him). They are remembered in the order of the passage of time. God swears by the most honorable first, and then the more honorable from the first and then the most honorable from the first two.
+> Some of the *imams* concluded that they are three places. God sent in all of them prophets, transmitting with the highest of determination, companions of the highest laws. The first one is the place of the fig and the olive which is `Jerusalem` where God most High sent prophet `Isa` (ﷺ). The second is `Tur Sinai` where God most High spoke to prophet `Musa` (ﷺ), son of `Imran`. The third is the safe city where whoever enters is safeguarded where God most High sent `Muhammad` (ﷺ). At the end of the `Tawrah`, these three places are mentioned as God came at the mountain of `Sinai`, where He spoke to `Musa` (ﷺ). Then, to the east, the mountain of `Jerusalem` where God sent the prophet `Isa` (ﷺ). Thereafter, disclosing the mountain of `Faran` ([Desert of Paran, also spelled `Pharan` or `Faran`](https://en.wikipedia.org/wiki/Desert_of_Paran)), referring to the mountain of `Mecca` where God sent `Muhammad` (ﷺ). They are remembered in the order of the passage of time. God swears by the most honorable first, and then the more honorable from the first and then the most honorable from the first two.
 
 The answer to the oath comes in the next verse.
 
-</showVersesFrom95>
+</ShowVerses>
 
-<showVersesFrom95 ayahs={[4]}>
+<ShowVerses sura="95" ayahs={[4]}>
 
 That is, we created humankind from the best of form, exemplified through the most beautiful and complete of characteristics, including the beauty of form, the raising of standing, the symmetry of physiology graced by knowledge and understanding, intelligence and distinction, articulated speech and manners.
 
@@ -104,10 +100,9 @@ That is, we created humankind from the best of form, exemplified through the mos
 
 > `أَحْسَنِ تَقْوِيمٍ` means the best of shape or form, the best of creation
 
+</ShowVerses>
 
-</showVersesFrom95>
-
-<showVersesFrom95 ayahs={[5]}>
+<ShowVerses sura="95" ayahs={[5]}>
 
 Then, we threw him in the lowest of the low, for not doing what he was created for, as he is not grateful for the blessings we created for him such him being in the best of form. He does not use what we allocated to him of benefits by worshipping us. Therefore, we will send him in the lowest of the low which is the hellfire.
 
@@ -123,27 +118,26 @@ Then, we threw him in the lowest of the low, for not doing what he was created f
 
 > We extract from the context the state of the disbeliever on judgement day. Indeed, he will be in the most odious and ugliest of forms after he was in the best of forms.
 
+</ShowVerses>
 
-</showVersesFrom95>
-
-<showVersesFrom95 ayahs={[6]}>
+<ShowVerses sura="95" ayahs={[6]}>
 
 That is, except the godfearing believers who combine belief with righteous works. For them, there is an unending reward, that never stops, which is paradise for the godfearing.
 
-</showVersesFrom95>
+</ShowVerses>
 
-<showVersesFrom95 ayahs={[7]}>
+<ShowVerses sura="95" ayahs={[7]}>
 
 The takeaway for people is the path of taking heed. O mankind, what is the reason for denial after this advice and the clarity of the proofs? He created man from a drop or sperm and perfected him in the most beautiful of forms and created his form. This is the clearest of proofs for the power of God most High and the existence of resurrection and retribution. What is it that calls you towards the denial of judgement day after this proof.
 
-</showVersesFrom95>
+</ShowVerses>
 
-<showVersesFrom95 ayahs={[8]}>
+<ShowVerses sura="95" ayahs={[8]}>
 
 That is, is not God, the creator, who is the most just, in judgement and ruling, deciding between the servants? In a narration,   it is mentioned:
 
-> When the prophet (peace be upon him) used to read this verse, he used to say: 
+> When the prophet (ﷺ) used to read this verse, he used to say: 
 >
 > No, He is and I am a witness to it
 
-</showVersesFrom95>
+</ShowVerses>
