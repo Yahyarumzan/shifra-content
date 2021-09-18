@@ -2,15 +2,21 @@
 
 ## Overview
 
-This chapter was revealed before the emigration to *Medina* (`مكية`). It talks about the character or personality of the greatest prophet (ﷺ) and the blessings and graces that God most High bestowed upon him in this world and the next so that he could thank Him by these amazing blessings.
+This chapter was revealed before the emigration to *Medina* (`مكية`). It talks about the character or personality of the greatest prophet (ﷺ) and the blessings and graces that God most High bestowed upon him in this world and the next so that he could thank Him through these amazing blessings.
 
-The chapter begins with the swearing upon the loftiness of the magnitude of the prophet (ﷺ). Verily, his Lord has not abandoned him and does not hate him as the disbelievers claim. On the contrary, his destiny, place and affair are elevated in the eyes of God most High (Verses 1-3)
+The chapter begins with an oath connected to the loftiness of the magnitude of the prophet (ﷺ). Verily, his Lord has not abandoned him and does not hate him as the disbelievers claim. On the contrary, his destiny, place and affair are elevated in the eyes of God most High (Verses 1-3)
 
 Then, the chapter brings the good news of a lot of rewards in the next life, and about what God promised him which is a type of miracle, namely the great intercession. (Verses 4-5)
 
 Thereafter, it reminds him of his state when he was a child, how he was an orphan, poor, needy and lost. Then, his Lord sheltered him, enriched him and took care of him. (Verses 6-8)
 
-The chapter concludes with advice in three commands that juxtapose to the three blessings mentioned above. These commands are: being favourably disposed to orphans, being merciful to the needy and consoling the tears of the miserable. It closes with order and symmetry of the beauty of language with a magnificent proclamation of originality and loftiness. (Verses 9-11)
+The chapter concludes with advice in three commands that juxtapose to the three blessings mentioned previously. These commands are: 
+
+- being favourably disposed to orphans.
+- being merciful to the needy.
+- consoling the tears of the miserable.
+
+It closes with order and symmetry using the beauty of language with a magnificent proclamation of originality and loftiness. (Verses 9-11)
 
 ## Vocabulary
 
@@ -30,19 +36,19 @@ Increased in darkness
 
 <Vocabulary word="آوى">
 
-Keep the one under one's protection close.
+Keep someone under one's protection close
 
 </Vocabulary>
 
 <Vocabulary word="عائلاً">
 
-Very poor or the lowest of poverty.
+Very poor or the lowest of poverty
 
 </Vocabulary>
 
 ## Reason for revelation
 
-The prophet of God (ﷺ) complained for he did not stand for night prayer for two or three nights. Then, a woman came, *Umm Jamil*, the wife of *Abu Lahab* and she said:
+The prophet of God (ﷺ) complained for he did not stand for night prayer for two or three nights, that is he did not receive any revelation for several days. Then, a woman came, *Umm Jamil*, the wife of *Abu Lahab* and she said:
 
 > O *Muhammad*, verily your devil did not come back and he has left you! I have not seen him around you for two or three nights. 
 
@@ -52,9 +58,9 @@ Then, God most High sent the following verses as a reply to the disbelievers, ve
 
 <ShowVerses sura="93" ayahs={[1,2]}>
 
-God most High swears by the time of mid-morning which happens after the sun has risen and by the night when its darkness has increased and everything has been covered by it. *Ibn Kathir* said: 
+God most High takes an oath by the time of mid-morning which happens after the sun has risen and by the night when its darkness has increased and everything has been covered by it. *Ibn Kathir* said: 
 
-> This oath of God most High by the mid-morning is related to what makes it shine, and by the night when everything calms down with the darkness and it points to the power of God most High.
+> This oath of God most High by the mid-morning is related to what makes it shine, and by the night when everything calms down with darkness and it points to the power of God most High.
 
 </ShowVerses>
 
@@ -64,7 +70,7 @@ O *Muhammad*, your Lord has not left you because he has chosen you and he does n
 
 > Your Lord has left you
 
-And it is the answer to the oath in verses one and two.
+And it is the answer to the oath in verses 1 and 2.
 
 </ShowVerses>
 
@@ -90,9 +96,11 @@ and cried. So God said:
 
 > O *Jibril*, go to *Muhammad* and ask him why he is crying
 
-Although God already knows why. Then, *Jibril* went to the prophet (ﷺ) and asked him so that the prophet (ﷺ) informed him. Then, God said:
+Verily God already knows why. Then, *Jibril* went to the prophet (ﷺ) and asked him so that the prophet (ﷺ) informed him. Then, God said:
 
-> O Jibril, go to *Muhammad* and tell him that We will satisfy you with your people, so don't grieve.
+> O *Jibril*, go to *Muhammad* and tell him: 
+>
+> > We will satisfy you with your people, so don't grieve.
 
 In the following narration: 
 
@@ -100,17 +108,17 @@ In the following narration:
 
 In another narration, *Khazin* said: 
 
-> First, a sign was carried upon its back, certainly comprising the good of this world and the next with it. So God gave him victory in this world, victory upon the enemies and a lot of following and openings and the most elevated of religions, and made his people the best of people and gave him in the next world, general intercession and a praised rank and other than this among the good in this world and the next.
-
-Thereafter, after God made this amazing promise to him, he reminded him of the blessings upon him whilst he was young, so that he thanks his Lord. So, God said:
+> First, a sign was carried upon his back, certainly comprising the good of this world and the next with it. So God gave him victory in this world, victory upon his enemies, a lot of following, openings and the most elevated of religions. He made his people the best of people and gave him in the next world, general intercession and a praised rank, in addition to more good in this world and the next.
 
 </ShowVerses>
+
+After God made this amazing promise to him, he reminded him of the blessings upon him whilst he was young, so that he thanks his Lord. So, God said:
 
 <ShowVerses sura="93" ayahs={[6]}>
 
 Were you not, O *Muhammad*, an orphan in your youth and God protected you with your uncle *Abu Talib* and put you under his care? *Ibn Kathir* said: 
 
-> His father passed away whilst his mother was still pregnant of him. Then, his mother passed away whilst he was six years old. Then he was in the care of his grandfather, *Abdul Mutalib* and the latter passed away whilst he was eight years old. Then, he was taken care of by his uncle *Abu Talib* so that protection and victory did not leave him. He was raised by God's power until God sent him the message, above the forty chiefs, whilst *Abu Talib* was worshipping the idols like his people. Thereafter, hardship followed the prophet (ﷺ) and all of this was from God's protection and out of care for him.
+> His father passed away whilst his mother was still pregnant of him. Then, his mother passed away whilst he was six years old. Then he was in the care of his grandfather, *Abdul Mutalib* and the latter passed away whilst he was eight years old. Then, he was cared for by his uncle *Abu Talib* so that protection and victory did not leave him. He was raised by God's power until God sent him the message, above the forty chiefs, whilst *Abu Talib* was worshipping the idols like his people. Thereafter, hardship followed the prophet (ﷺ) and all of this was from God's protection and out of care for him.
 
 </ShowVerses>
 
@@ -130,7 +138,7 @@ And it was said:
 
 *Abu Hiyan* said:
 
-> It is not benefitting to say that he was taken to guidance after being ignorant as prophets are protected from this. 
+> It is not befitting to say that he was guided after being ignorant as prophets are protected from this. 
 
 *Ibn Abbas* said:
 
@@ -144,9 +152,11 @@ It is said:
 
 <ShowVerses sura="93" ayahs={[8]}>
 
-We found you poor and needy and we enriched you in the world such as we facilitated for you the means of trade. Then, after these three blessings have been enumerated, he is advised with juxtaposing counsels. And God says:
+We found you poor and needy and we enriched you in the world such as we facilitated for you the means of trade. 
 
 </ShowVerses>
+
+After these three blessings are enumerated, he is advised with juxtaposing counsels. And God says:
 
 <ShowVerses sura="93" ayahs={[9]}>
 
@@ -158,7 +168,7 @@ That is, do not scorn or degrade the orphan, and don't take his wealth. *Mujahid
 
 > Don't wrong him by wasting his wealth.
 
-What is meant here, be with the orphan as a merciful father, for you were an orphan and God protected you.
+What is meant here is be with the orphan as a merciful father, for you were an orphan and God protected you.
 
 </ShowVerses>
 
@@ -174,6 +184,10 @@ Regarding the begging asker who is asking out of need and poverty, don't drive h
 
 That is, tell people about the favors and blessings of God to you, for you talk about the blessings out of thanks for them. *Alousi* said:
 
-> You were a poor and lost orphan. Then God took care of you, guided you and enriched you. Therefore, do not forget the blessings of God upon you in these three ways: Be gentle with the orphan and be merciful with the beggar for you have tasted orphanhood and poverty. Guide the servants to the guided path as your Lord guided you.
+> You were a poor and lost orphan. Then God took care of you, guided you and enriched you. Therefore, do not forget the blessings of God upon you in these three ways: 
+>
+> - be gentle with the orphan
+> - be merciful with the beggar for you have tasted orphanhood and poverty
+> - guide the servants to the guided path as your Lord guided you
 
 </ShowVerses>
