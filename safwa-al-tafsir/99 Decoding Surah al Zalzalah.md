@@ -124,18 +124,36 @@ In another narration, it is said:
 
 <ShowVerses sura="99" ayahs={[5]}>
 
-This information will be communicated by the earth because God most dignified will command it to do so and He will permit it to articulate everything that happened upon it
+These tidings will be revealed by the earth because God most dignified will command it to do so and He will permit it to articulate everything that happened upon it. It will complain about the sinner and be a witness against him and it will be thankful for the obedient person and praise him. There is nothing extraordinary about this because God most High has power over all things
 
 </ShowVerses>
 
 <ShowVerses sura="99" ayahs={[6]}>
 
+On this day, the creatures will return to a state of reckoning. They will depart scattered , group by group and the people of the right will attain paradise whilst the people of the left will descend to hellfire. They will accept the result of their actions, may it be good or bad.
+
 </ShowVerses>
 
 <ShowVerses sura="99" ayahs={[7]}>
 
+Whoever did a small amount (equivalent to the weight of a dust particle) of good, he will find it in his book on the last day and he will find his reward for it. Al Kilabi said:
+
+> `الذرة` is smaller than an ant
+
+*Ibn Abbas* said:
+
+> When your account is shown on the earth, it will be lifted ...
+
 </ShowVerses>
 
 <ShowVerses sura="99" ayahs={[8]}>
+
+Whoever did a small amount of evil, equivalent to the weight of a dust particle, he will see it and suffer from the result of it. *Qurtubi* said:
+
+> This is as if God most High hit him for verily no action of the son of *Adam* is neglected, may it be small or big, as God says (4:40)
+>
+> > إِنَّ ٱللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ 
+> >
+> > Verily, God does not wrong [anyone] by as much as an atom's weight; 
 
 </ShowVerses>
